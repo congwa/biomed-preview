@@ -1,0 +1,24 @@
+{
+  "type": "PA130",
+  "data": [
+    [
+      "PA130-01",
+      "半胱氨酸蛋白酶 SUMO Protease （Ulp）",
+      "1000U",
+      "包",
+      998,
+      "储存温度：\n\n\n     SUMO Protease(10 U/μl)长期储存于-80℃，可保存2年；或小量分装后保存于-20℃，可保存6个月，避免反复冻融。10×SUMO Buffer+/-Salt置于-20°C保存即可。\n\n\n\n产品介绍：\n\n\nSUMO Protease也称Ulp，是一种具有较高活性的半胱氨酸蛋白酶，它能识别 SUMO蛋白的三级结构，而不是氨基酸序列，因此可以高效而且特异性地将SUMO蛋白从重组融合蛋白上切割下来。切割的最佳温度为30°C，该酶作用温度（4-30℃）和PH范围（pH7-9）都比较广泛。SUMO Protease是自大肠杆菌表达经亲和纯化的重组蛋白酶。 SUMO Protease带有多聚组氨酸标签，便于融合蛋白切割后利用亲和层析去除该蛋白酶。\n\n\n\n酶活性单位定义：\n\n\n在1×SUMO Buffer -Salt(50 mM Tris-HCl, pH 8.0, 0.2% NP-40, 1 mM DTT)中，30°C反应1h，剪切>85％的2 μg对照底物所需要的酶量定义为一个活性单位。\n\n\n\n应用：融合蛋白标签剪切去除。\n\n",
+      "ProteinQuantification"
+    ],
+    [
+      "PA130-02",
+      null,
+      "1000U×5",
+      "包",
+      4490,
+      "储存温度：\n\n\n     SUMO Protease(10 U/μl)长期储存于-80℃，可保存2年；或小量分装后保存于-20℃，可保存6个月，避免反复冻融。10×SUMO Buffer+/-Salt置于-20°C保存即可。\n\n\n\n产品介绍：\n\n\nSUMO Protease也称Ulp，是一种具有较高活性的半胱氨酸蛋白酶，它能识别 SUMO蛋白的三级结构，而不是氨基酸序列，因此可以高效而且特异性地将SUMO蛋白从重组融合蛋白上切割下来。切割的最佳温度为30°C，该酶作用温度（4-30℃）和PH范围（pH7-9）都比较广泛。SUMO Protease是自大肠杆菌表达经亲和纯化的重组蛋白酶。 SUMO Protease带有多聚组氨酸标签，便于融合蛋白切割后利用亲和层析去除该蛋白酶。\n\n\n\n酶活性单位定义：\n\n\n在1×SUMO Buffer -Salt(50 mM Tris-HCl, pH 8.0, 0.2% NP-40, 1 mM DTT)中，30°C反应1h，剪切>85％的2 μg对照底物所需要的酶量定义为一个活性单位。\n\n\n\n应用：融合蛋白标签剪切去除。\n\n",
+      "ProteinQuantification"
+    ]
+  ],
+  "parent": "ProteinQuantification"
+}

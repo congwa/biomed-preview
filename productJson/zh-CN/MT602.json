@@ -1,0 +1,15 @@
+{
+  "type": "MT602",
+  "data": [
+    [
+      "MT602-01",
+      "M-MLV III Green Two-Step qRT-PCT Kit ",
+      "RT体系/PCR\n体系20ul×50 次\n/50ul×80 次",
+      "包",
+      2680,
+      "存储温度：-20℃保存。\n\n \n\n制品说明：\n\n 用M-MLV III和5×RT Mix能更高效地将RNA合成cDNA 。PCR使用2×Green qPCR MasterMix。本试剂盒含有从RNA到cDNA，以及qPCR扩增cDNA的全部试剂。2×Green qPCR MasterMix是专用于染料法（SYBR Green I）实时荧光定量PCR的预混体系，包含HotStar Taq DNA Polymerase、PCR Buffer、dNTPs、SYBR Green I荧光染料、Mg2+和ROX校正染料，操作简单方便，主要用于基因组DNA靶序列和RNA反转录后cDNA靶序列的检测。\n\n \n\n产品特点：\n\n1.M-MLV III的RNase H活性缺失，具有更强的延伸能力，灵敏度高，特异性高，热稳定性高，可用于较长的cDNA合成以及高比例的全长cDNA文库的构建;\n\n2.Anchored Oligo(dT)18设计独特能锚定mRNA Poly(A)+的5′端区域，退火位点锚定，特异性高，保证cDNA合成效率和成功率;\n\n3.可用Random Primer（N9）或基因特异引物（GSP）合成第一链cDNA;\n\n4.合成片段≤8kb;\n\n5.本产品中使用了全新高效热启动酶HotStar Taq DNA Polymerase与独特的PCR缓冲体系，显著提高PCR的扩增效率，具有高灵敏度和特异性强的特点；\n\n6.适用于荧光定量 PCR 检测，能够准确地对目的基因进行定量和检测；\n\n7.本产品兼容性强，适用于不同厂家、型号的荧光定量 PCR 仪；\n\n \n\n（具体操作详见说明书）",
+      "RT-PCR"
+    ]
+  ],
+  "parent": "RT-PCR"
+}

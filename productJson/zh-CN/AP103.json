@@ -1,0 +1,15 @@
+{
+  "type": "AP103",
+  "data": [
+    [
+      "AP103-01",
+      "Rinbonuclease Inhibitor ",
+      "2000U",
+      "包",
+      200,
+      "储存条件：-20℃保存\n\n \n\n产品浓度：50U/μl\n\n \n\n产品介绍：\n\n Ribonuclease Inhibitor是经大肠杆菌表达纯化的人胎盘的重组蛋白，特异性地抑制RNase A，RNase B和RNase C，形，成1:1的共价复合体，阻遏RNase的活性。不能抑制RNase1，RNaseT1，S1核酸酶，RNaseH或曲霉菌来源的RNase。对DNA Polymerase，AMV，M-MLV以及SP6，T7和T3 RNA 聚合酶无抑制作用。\n\n \n\n酶储存缓冲液：50% glycerol，50 mM Tris-HCl (pH 7.5)，0.1 mM EDTA，10 mM DTT and 100 mM NaCl。\n\n \n\n活性定义：抑制5ng RNase A活性的50% 所需要的酶量定义为1个活性单位（U）。\n\n \n\n用     途：cDNA合成反应；多核糖体的分离；体外翻译；体外无细胞系统转录；SP6或T7 RNA聚合酶的体外转录。\n\n \n\n注意事项：\n\n1.抑制活性的pH值范围较广，在pH7.0-8.0时表现最大活性。\n\n2.起泡或强烈搅拌（Vortex等）会引起失活。\n\n \n\n（具体操作详见说明书）",
+      "FQ-PCR"
+    ]
+  ],
+  "parent": "FQ-PCR"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "PA112",
+  "data": [
+    [
+      "PA112-01",
+      "RIPA 裂解液",
+      "50ml×2",
+      "瓶",
+      200,
+      "保存条件：常温保存。\n\n \n\n产品介绍：\n\n RIPA裂解液(RIPA Lysis Buffer)是一种传统的细胞组织快速裂解液。RIPA裂解液裂解得到的蛋白样品可以用于常规的Western、IP等。RIPA的本意是Radio Immunoprecipitation Assay。RIPA裂解液的配方有很多种，本产品RIPA裂解液的主要成分为50mM Tris(pH7.4)，150mM NaCl，1% Triton X-100，1% sodium deoxycholate，0.1% SDS 以及sodium orthovanadate，sodium fluoride，EDTA 等多种磷酸酶抑制剂。\n\n \n\n注意事项：\n\n1.裂解得到的蛋白样品，由于含有较高浓度的去垢剂干扰，不能用Bradford法测定蛋白浓度，可以选用本公司生产的BCA蛋白定量试剂盒测定蛋白浓度。\n\n2.用户使用前需加入蛋白酶抑制剂如PMSF或者根据需要再加入leupeptin，aprotinin等其它抑制剂。\n\n3.裂解液中SDS 4℃保存易沉淀析出，使用前应该37℃-60℃水浴重新溶解完全后回复到室温使用。\n\n4.裂解蛋白的所有步骤都需在冰上或4℃进行。\n\n \n\n（具体操作详见说明书）",
+      "ProteinExtractionAndLysis"
+    ]
+  ],
+  "parent": "ProteinExtractionAndLysis"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "BC307",
+  "data": [
+    [
+      "BC307-01",
+      "EHA105农杆菌电转感受态细胞",
+      "50μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n基因型：C58 (RifR) Ti pEHA105 (pTiBo542DT-DNA) (StrR), Succinamopine type \n\n \n\n产品说明：\n\n \n\nEHA105由EHA101菌株改造而来(Hood et al., 1993)，为农杆菌C58型背景，核基因中含有利福平抗性基因(Rif)。此菌株还携带一种自身转运功能丧失的质粒(disarmed Ti plasmid)。EHA105菌株含有胭脂碱型Ti质粒pEHA105 (pTiBo542DT-DNA),该质粒含有vir基因(vir基因是TDNA插入植物基因组所必需的元件，pEHA105 (pTiBo542DT-DNA)质粒自身的T-DNA转移功能被破坏，但可辅助植物双元表达载体的T-DNA的转移）。pEHA105 (pTiBo542DT-DNA)质粒还含有Str抗性基因，赋予EHA105菌株链霉素抗性。EHA105农杆菌适用于水稻、烟草等植物的转基因操作。EHA105电转感受态特别适用于大质粒的转化，经pCAMBIA2301质粒检测转化效率大于105 cfu/μg DNA。\n\n \n\n（具体操作详见说明书）",
+      "AgrobacteriumTransfer"
+    ]
+  ],
+  "parent": "AgrobacteriumTransfer"
+}

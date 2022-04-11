@@ -1,0 +1,15 @@
+{
+  "type": "SH459",
+  "data": [
+    [
+      "SH459-1g",
+      "Ribonuclease A (RNase A)",
+      "1g",
+      "瓶",
+      2000,
+      " \n\n产品简介：\n\n核糖核酸酶 A（Ribonuclease A，常用缩写 RNase A），一种含4个二硫键的单链多肽，分子量约为13.7kDa（氨基酸序列）。RNase A是一种核糖核酸内切酶（endoribonuclease），可以特异性降解单链RNA上的胞嘧啶（C）或尿嘧啶（U）残基。具体来说，切割识别的是由某核苷酸上的 5’-核糖和相邻的嘧啶类核苷酸 3’-核糖上磷酸基团形成的磷酸二酯键，从而使得 2’, 3’-环磷酸水解为对应的3’-核苷磷酸（比如，pG-pG-pC-pA-pG 经 RNase A切割产生pG-pG-pCp 和A-PG）。RNase A切割单链RNA活性最高，推荐工作浓度为 1-100 μg/mL，兼容于各种反应体系。\n\n低盐浓度（0-100 mM NaCl），可用来切割单链RNA，双链RNA，以及RNA-DNA 杂交形成的RNA链。然而，高盐浓度（≥0.3 M），RNase A仅特异性切割单链RNA。   \n\n核糖核酸酶A（RNase A）最常见的应用在于质粒DNA或基因组DNA制备过程中去除RNA，另外，本品还可用于RNA酶保护分析、RNA序列分析等分子生物学实验。\n\n\n\n  详情见说明书",
+      "ReadyToUse"
+    ]
+  ],
+  "parent": "ReadyToUse"
+}

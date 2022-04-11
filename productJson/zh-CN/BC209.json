@@ -1,0 +1,24 @@
+{
+  "type": "BC209",
+  "data": [
+    [
+      "BC209-01",
+      "Shuffle T7-B 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品说明：\n\n\n\nShuffle T7-B菌株为大肠杆菌BL21增强型菌株，为Lon和OmpT蛋白酶缺陷型，适用于T7启动子启动的蛋白表达。细胞内组成型表达的二硫键异构酶DsbC不仅有利于表达蛋白形成正确的二硫键，并具有分子伴侣的功能，帮助不含二硫键的蛋白正确折叠。T7 RNA聚合酶基因整合在细菌染色体上的lac操纵子区域，基因组中无λ前噬菌体序列，具有抗T1噬菌体感染特点。Shuffle T7-B感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于106 cfu/μg。\n\n\n\n基因型：\n\n\n\nfhuA2lacZ::T7gene1[lon]ompTahpCgalλatt::pNEB3-r1-cDsbC(SpecRlacIq)ΔtrxBsulA11R(mcr-73::miniTn10-TetS)2 [dcm] R(zgb-210::Tn10 --TetS) endA1 Δgor ∆(mcrC-mrr)114::IS10\n\n\n\n菌株抗性：对氨苄青霉素，氯霉素，卡那霉素和四环素敏感，对链霉素和壮观霉素有抗性。\n\n\n\n\n\n\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ],
+    [
+      "BC209-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品说明：\n\n\n\nShuffle T7-B菌株为大肠杆菌BL21增强型菌株，为Lon和OmpT蛋白酶缺陷型，适用于T7启动子启动的蛋白表达。细胞内组成型表达的二硫键异构酶DsbC不仅有利于表达蛋白形成正确的二硫键，并具有分子伴侣的功能，帮助不含二硫键的蛋白正确折叠。T7 RNA聚合酶基因整合在细菌染色体上的lac操纵子区域，基因组中无λ前噬菌体序列，具有抗T1噬菌体感染特点。Shuffle T7-B感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于106 cfu/μg。\n\n\n\n基因型：\n\n\n\nfhuA2lacZ::T7gene1[lon]ompTahpCgalλatt::pNEB3-r1-cDsbC(SpecRlacIq)ΔtrxBsulA11R(mcr-73::miniTn10-TetS)2 [dcm] R(zgb-210::Tn10 --TetS) endA1 Δgor ∆(mcrC-mrr)114::IS10\n\n\n\n菌株抗性：对氨苄青霉素，氯霉素，卡那霉素和四环素敏感，对链霉素和壮观霉素有抗性。\n\n\n\n\n\n\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

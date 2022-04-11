@@ -1,0 +1,15 @@
+{
+  "type": "AT102",
+  "data": [
+    [
+      "AT102-01",
+      "Fast Taq DNA Polymerase",
+      "500U",
+      "包",
+      170,
+      "储存条件：-20℃保存\n\n \n\n制品说明：\n\n \n\n         Fast Taq DNA Polymerase 是经过基因改造的可以快速扩增的DNA聚和酶。Fast Taq DNA Polymerase具有5′→3′DNA聚合酶活性和5′→′外切核酸酶活性，无3′→5′外切酶活性。在PCR反应中，Fast Taq DNA Polymerase延伸速度为2 kb/20sec，产物3′端带A，可直接用于TA克隆。\n\n \n\n活性单位：1单位（U）Fast Taq DNA Polymerase 活性定义为在74℃、30分钟内，以活性化的大马哈鱼精子DNA作为模板引物，将10 nmol脱氧核苷酸掺入到酸不溶物质所需的酶量。\n\n \n\n质量控制：SDS-PAGE 检测纯度大于99%，经检测无外源核酸酶活性；PCR方法检测无宿主残余DNA，能有效地扩增人基因组中的单拷贝基因；室温存放一周，无明显活性改变。\n\n \n\n酶贮存缓冲液：\n\n \n\n    20mM Tris-HCl (pH8.0)， 0.1 mM EDTA， 1mM DTT， 100 mM KCl， Stabilizers， 50% glycerol。\n\n \n\n        5×Fast Taq Buffer：\n\n \n\n       100 mM Tris-HCl (pH 8.4)，100 mM KCl， 50 mM(NH4)2 SO4，7.5 mM MgCl2以及其他成分。\n\n \n\n适用范围： 一般用于DNA片断的PCR扩增、DNA标记、引物延伸、序列测定、平末端加A 等，产物可以直接用于TA载体克隆。\n\n \n\n（具体操作详见说明书）",
+      "PCRCommon"
+    ]
+  ],
+  "parent": "PCRCommon"
+}

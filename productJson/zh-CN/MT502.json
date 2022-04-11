@@ -1,0 +1,24 @@
+{
+  "type": "MT502",
+  "data": [
+    [
+      "MT502-01",
+      "qPCR MasterMix(Probe)",
+      "1ml",
+      "包",
+      400,
+      "储存条件:-20℃保存。\n\n \n\n注意:仅供科研使用。\n\n \n\n产品简介：\n\nqPCR MasterMix(Probe)结合了最新的缓冲体系技术和抗体修饰的热启动Taq酶，确保快速、高特异性和高灵敏度的实时荧光PCR检测，适用于所有实时荧光定量PCR仪。本试剂适用于探针（TaqMan®, Scorpions® and molecular beacon）检测。\n\nqPCR MasterMix(Probe)包含所有实时荧光定量PCR的必要组分，包括dNTPs、稳定剂和增强剂，非常方便使用。操作时，实验人员只需添加引物，模板和探针。\n\n \n\n（具体操作详见说明书）",
+      "RT-PCR"
+    ],
+    [
+      "MT502-02",
+      null,
+      "1ml×5",
+      "包",
+      2000,
+      "储存条件:-21℃保存。\n\n \n\n注意:仅供科研使用。\n\n \n\n产品简介：\n\nqPCR MasterMix(Probe)结合了最新的缓冲体系技术和抗体修饰的热启动Taq酶，确保快速、高特异性和高灵敏度的实时荧光PCR检测，适用于所有实时荧光定量PCR仪。本试剂适用于探针（TaqMan®, Scorpions® and molecular beacon）检测。\n\nqPCR MasterMix(Probe)包含所有实时荧光定量PCR的必要组分，包括dNTPs、稳定剂和增强剂，非常方便使用。操作时，实验人员只需添加引物，模板和探针。\n\n \n\n（具体操作详见说明书）",
+      "RT-PCR"
+    ]
+  ],
+  "parent": "RT-PCR"
+}

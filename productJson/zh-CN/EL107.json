@@ -1,0 +1,15 @@
+{
+  "type": "EL107",
+  "data": [
+    [
+      "EL107-01",
+      "5×DNA Loading buffer with GelRed",
+      "500ul",
+      "包",
+      90,
+      "保存条件：4℃保存，-20℃永久保存。\n\n \n\n组成成分：10mM Tris-HCl，5mM EDTA，pH7.6，0.03% 溴酚蓝，0.03%二甲苯青，30%甘油，GelRed核酸染料。\n\n \n\n产品介绍：\n\n  GelRed是一款新型核酸染料。这种独特的油性大分子，不易挥发升华、不易吸入人体，不能穿透细胞膜进入活体细胞内，且在凝胶染色浓度下没有诱变性，具有使用安全、检测灵敏等特点，可以作为各种核酸电泳的染色剂，适用于各种片段大小染色。是EB的完美替代品。本公司配置成5xDNA Loading Buffer with GelRed(含染料)，和样品混合，点染使用。\n\n \n\n使用方法：\n\n1. 配合博迈德公司的预染DNA Marke使用。\n\n2. 样品4μl(<500ng)与5xDNA Loading Buffer with GelRed(含染料)1μl混匀，室温放置2分钟后点样。\n\n3. 建议用1.0-2.0% Agarose，电压4-10v/cm，1xTAE(优先选用)或0.5xTBE缓冲液电泳。注意及时更换电泳缓冲液并使用新制备的凝胶，以达到理想的结果。\n\n4. 琼脂糖凝胶中不需要加任何染料，电泳后可直接在紫外灯下观察电泳条带。染料兼容常用的紫外灯",
+      "Electrophoresis"
+    ]
+  ],
+  "parent": "Electrophoresis"
+}

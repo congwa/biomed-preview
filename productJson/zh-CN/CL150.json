@@ -1,0 +1,15 @@
+{
+  "type": "CL150",
+  "data": [
+    [
+      "CL150-01",
+      "pPIC9K Seamless Cloning Kit（线性化质粒）",
+      "20 μl",
+      "包",
+      1000,
+      "保存条件：-20℃保存一年\n\n \n\n产品介绍： \n\npPIC9K为毕赤酵母表达载体，载体能够使用的毕赤酵母宿主菌是KM71和GS115。 pPIC9载体大小9276 bp，是融合表达载体，利用alpha因子分泌信号肽，分泌表达蛋白基因。在毕赤酵母中利用HIS4进行筛选。在载体构建过程中，目的基因必须保证与信号肽的起始密码子的读码框一致。本产品提供pPIC9K经EcoRⅠ酶切后的线性化载体，可用无缝克隆技术将单个或多个DNA片段组装到载体上。\n\n无缝克隆技术可在重组酶的作用下，只需一步反应，便可将片段克隆到任何载体中的任意位置，得到重组质粒。无缝克隆技术作为一种非常强大的克隆技术，具有快速、简便、高效、多片段组装和定向克隆等特点，用于单个DNA片段的克隆，多个DNA片段组装克隆以及多位点突变构建等实验目的。\n\n \n\n产品特点：\n\n1. pPIC9K为毕赤酵母表达载体，载体能够使用的毕赤酵母宿主菌是KM71和GS115。\n\n2. pPIC9载体利用alpha因子分泌信号肽，分泌表达蛋白基因。\n\n3. 在毕赤酵母中利用HIS4进行筛选。\n\n4. 无缝克隆技术只需要简单的 PCR 扩增就可以制备片段DNA。\n\n5. 可以克隆长片段和多片段DNA。\n\n \n\n操作步骤：\n\n1. pPIC9K线性化载体使用方法：  \n\n(1) pPIC9K线性化载体当做克隆载体使用，可以在扩增PCR产物的\n\n上游引物 5’端添加序列：GAGAGGCTGAAGCTTACGTAGAATTC\n\n下游引物 5’端添加序列：GCGAATTAATTCGCGGCCGC\n\n通过无缝克隆连接到pPIC9K中。\n\n\n\n(2) 测序引物\n\nAOX1-F:GACTGGTTCCAATTGACAAGC\n\n或alpha-Factor-F:TACTATTGCCAGCATTGCTGC\n\nAOX1-R:GCAAATGGCATTCTGACATCC\n\n(3) pPIC9K线性化载体为 EcoRⅠ酶切后的线性化载体，图谱及多克隆位点见下图。",
+      "CloningRelated"
+    ]
+  ],
+  "parent": "CloningRelated"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "BC401",
+  "data": [
+    [
+      "BC401-01",
+      "NEB 10-beta 电转感受态细胞",
+      "50μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品说明：\n\nNEB 10-beta电转感受态细胞只能用于电击转化，不能用于热激转化。该菌株为DH10B衍生株，属大肠杆菌K12菌株，特别适用于BAC，Cosmid等大质粒骨架的文库构建和大质粒克隆或扩增。DNA重组缺陷（recA1）和I型内切酶缺陷（endA1）的特点有利于插入DNA的稳定和高纯度质粒DNA的提取。该菌株具有抗T1噬菌体感染的特点，还可用于蓝/白斑筛选实验，检测β-半乳糖苷酶的活性时，无需添加IPTG，只加X-gal即可。pUC19质粒检测感受态细胞的转化效率大于1010 cfu/μg。\n\n\n\n基因型：\n\naraD139△(ara,leu)7697 fhuA lacX74 galK16 galE15 mcrA80d(lacZM15)recA1 relA1 endA1 nupG rpsL rph spoT1△(mrrhsdRMS-mcrBC)",
+      "EscherichiaColiTransfer"
+    ]
+  ],
+  "parent": "EscherichiaColiTransfer"
+}

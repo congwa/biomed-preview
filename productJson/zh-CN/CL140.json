@@ -1,0 +1,15 @@
+{
+  "type": "CL140",
+  "data": [
+    [
+      "CL140-01",
+      "pcDNA3.1(+) Seamless Cloning Kit（线性化质粒）",
+      "20 μl",
+      "包",
+      1000,
+      "产品介绍：\n\npcDNA3.1(+)载体为哺乳动物细胞表达载体，具有人巨细胞病毒(CMV)启动子，在哺乳动物细胞中高水平表达；新霉素抗性基因，用于选择稳定细胞系。本产品提供pcDNA3.1(+)经EcoRⅠ酶切后的线性化载体，可用无缝克隆技术将单个或多个DNA片段组装到载体上。\n\n无缝克隆技术可在重组酶的作用下，只需一步反应，便可将片段克隆到任何载体中的任意位置，得到重组质粒。无缝克隆技术作为一种非常强大的克隆技术，具有快速、简便、高效、多片段组装和定向克隆等特点，用于单个 DNA 片段的克隆，多个 DNA 片段组装克隆以及多位点突变构建等实验目的。\n\n \n\n产品特点：\n\n1. pcDNA3.1(+)具有人巨细胞病毒(CMV)启动子，在哺乳动物细胞中高水平表达。\n\n2. pcDNA3.1(+)具有新霉素抗性基因，用于选择稳定细胞系。\n\n3. pcDNA3.1(+)经EcoRⅠ酶切后的线性化载体，省时省力。\n\n4. 无缝克隆技术只需要简单的 PCR 扩增就可以制备片段DNA。\n\n5. 可以克隆长片段和多片段DNA。\n\n \n\n操作步骤：\n\n1. pcDNA3.1(+)线性化载体使用方法：  \n\n(1) pcDNA3.1(+)线性化载体当做克隆载体使用，可以在扩增PCR产物的\n\n上游引物 5’端添加序列：TAGGGAGACCCAAGCTGGCTAGCgccacc（gccacc为Kozak序列）\n\n下游引物 5’端添加序列：CACTGTGCTGGATATCTGCAGAATTC\n\n通过无缝克隆连接到pcDNA3.1(+)中。\n\n(2) 测序引物\n\npcDNA3.1-F:CTAGAGAACCCACTGCTTAC\n\npcDNA3.1-R(BGH-R):TAGAAGGCACAGTCGAGG\n\n(3) pcDNA3.1(+)线性化载体为 EcoRⅠ酶切后的线性化载体，图谱及多克隆位点见下图。",
+      "CloningRelated"
+    ]
+  ],
+  "parent": "CloningRelated"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "BC402",
+  "data": [
+    [
+      "BC402-01",
+      "BJ5183 电转感受态细胞",
+      "50μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品说明：\n\nBJ5183电转感受态细胞只能用于电击转化，不能用于热激转化。BJ5183为重组腺病毒质粒构建专用菌株，能够表达供pAdEasy骨架质粒和pAdEasy穿梭质粒进行同源重组的所有组分。pUC19质粒检测感受态细胞的转化效率大于109 cfu/μg。\n\n\n\n基因型：endA1 sbcBC recBC galK met thi-1 bioT hsdR (StrR )\n\n\n\n菌株抗性：对氨苄青霉素，卡那霉素敏感，有链霉素抗性。\n\n（具体操作详见说明书）",
+      "EscherichiaColiTransfer"
+    ]
+  ],
+  "parent": "EscherichiaColiTransfer"
+}

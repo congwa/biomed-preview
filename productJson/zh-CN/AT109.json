@@ -1,0 +1,24 @@
+{
+  "type": "AT109",
+  "data": [
+    [
+      "AT109-01",
+      "Xerox DNA polymerase(2.5u/ul)  ",
+      "100U",
+      "包",
+      980,
+      "浓 度：2.5 U/μl\n\n \n\n产品介绍：\n\n Xerox DNA 聚合酶（Xerox DNA Polymerase）是通过DNA shuffling技术获得的一种高保真的热稳定DNA聚合酶，用于快速高保真PCR扩增。在镁离子存在的条件下，该酶可催化三磷酸脱氧核苷酸沿5'→3’方向发生聚合反应，合成DNA。它还具有校正功能的3’→5’外切酶活性。\n\nXerox DNA 聚合酶扩增得到的产物为平末端,可以直接克隆于平末端克隆载体或加A尾克隆于普通T载体中。Xerox DNA 聚合酶具有更高的保真性（保真性是Taq DNA 聚合酶的至少50倍，为Pfu DNA 聚合酶的6倍），更快的DNA合成速度（15-30sec/kb）和更强的扩增能力。\n\n \n\n保存条件：-20℃ 保存，有效期一年。\n\n \n\n来 源：重组Xerox DNA polymerase基因的大肠杆菌中表达并纯化的酶蛋白。\n\n \n\n产品用途：\n\n 高保真PCR快速扩增\n\n 复杂模板的DNA扩增\n\n 长距离PCR\n\n   基因定点突变\n\n 血液直接PCR扩增\n\n \n\n（具体操作详见说明书）",
+      "PCRCommon"
+    ],
+    [
+      "AT109-02",
+      null,
+      "100U×5",
+      "包",
+      3900,
+      "浓 度：2.5 U/μl\n\n \n\n产品介绍：\n\n Xerox DNA 聚合酶（Xerox DNA Polymerase）是通过DNA shuffling技术获得的一种高保真的热稳定DNA聚合酶，用于快速高保真PCR扩增。在镁离子存在的条件下，该酶可催化三磷酸脱氧核苷酸沿5'→3’方向发生聚合反应，合成DNA。它还具有校正功能的3’→5’外切酶活性。\n\nXerox DNA 聚合酶扩增得到的产物为平末端,可以直接克隆于平末端克隆载体或加A尾克隆于普通T载体中。Xerox DNA 聚合酶具有更高的保真性（保真性是Taq DNA 聚合酶的至少50倍，为Pfu DNA 聚合酶的6倍），更快的DNA合成速度（15-30sec/kb）和更强的扩增能力。\n\n \n\n保存条件：-20℃ 保存，有效期一年。\n\n \n\n来 源：重组Xerox DNA polymerase基因的大肠杆菌中表达并纯化的酶蛋白。\n\n \n\n产品用途：\n\n 高保真PCR快速扩增\n\n 复杂模板的DNA扩增\n\n 长距离PCR\n\n   基因定点突变\n\n 血液直接PCR扩增\n\n \n\n（具体操作详见说明书）",
+      "PCRCommon"
+    ]
+  ],
+  "parent": "PCRCommon"
+}

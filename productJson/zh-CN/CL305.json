@@ -1,0 +1,15 @@
+{
+  "type": "CL305",
+  "data": [
+    [
+      "CL305",
+      "2XT4 DNA Ligase",
+      "20 次",
+      "包",
+      120,
+      "产品概述：\n\n DNA连接是一种常用的分子生物学实验方法。T4 DNA 连接酶是使用最多的连接酶。2×T4 DNA Ligase Master Mix是一种高效的T4 DNA连接酶预混型试剂，包含了T4 DNA 连接酶、连接缓冲液及连接促进剂等成分，只需要往DNA混合液中加入等体积的2×T4 DNA Ligase Master Mix即可完成连接反应。\n\n该产品在-20℃不会冻结，无需长时间的化冻过程，使用非常简便。DNA片段在连接酶的作用下短时间便可发生高效连接。本产品应用于粘性末端、平滑末端双链DNA连接及TA克隆等。\n\n \n\n保存条件：-20℃保存一年。 \n\n \n\n注意事项：\n\n1.本试剂在-30℃以下温度长时间保存时可能会产生冻结，但经试验证实，溶解后不影响连接活性，反复冻融多次不影响其活性。\n\n2.T4 DNA ligase需要Mg2+为激活剂，因此螯合Mg2+的EDTA的存在会阻碍连接反应。溶解于高浓度EDTA缓冲液的DNA需要用灭菌水或TE缓冲液进行置换。\n\n \n\n（具体操作详见说明书）",
+      "CloningOfRestructuring"
+    ]
+  ],
+  "parent": "CloningOfRestructuring"
+}

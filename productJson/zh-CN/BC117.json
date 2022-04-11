@@ -1,0 +1,24 @@
+{
+  "type": "BC117",
+  "data": [
+    [
+      "BC117-01",
+      "Turbo 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融；不适合在液氮中保存。\n\n \n\n产品介绍：\n\n本公司生产的Turbo感受态细胞是采用大肠杆菌Turbo菌株经特殊工艺处理得到的感受态细胞。Turbo菌株是生长最快的大肠杆菌菌株，菌株平板上6.5小时可见克隆，摇菌4-6小时可提取质粒。核酸内切酶 (endA1)基因的缺失有利于提高质粒DNA的产量和质量。菌株的LacIq基因的表达受到严格控制，可克隆毒性基因。ΔlacZM15基因的存在可用于蓝白斑筛选。菌株还具有抗T1噬菌体感染的特点。Turbo感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于109 cfu/μg DNA。\n\n \n\n基因型:\n\nF'proA+B+lacIqΔlacZM15/fhuA2Δ(lac-proAB)glnVgalK16galE15R(zgb-210::Tn10)TetSendA1thi-1Δ(hsdS-mcrB)5\n\n \n\n菌株抗性：对氨苄青霉素、氯霉素、卡那霉素、壮观霉素、链霉素、四环素敏感\n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ],
+    [
+      "BC117-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融；不适合在液氮中保存。\n\n \n\n产品介绍：\n\n本公司生产的Turbo感受态细胞是采用大肠杆菌Turbo菌株经特殊工艺处理得到的感受态细胞。Turbo菌株是生长最快的大肠杆菌菌株，菌株平板上6.5小时可见克隆，摇菌4-6小时可提取质粒。核酸内切酶 (endA1)基因的缺失有利于提高质粒DNA的产量和质量。菌株的LacIq基因的表达受到严格控制，可克隆毒性基因。ΔlacZM15基因的存在可用于蓝白斑筛选。菌株还具有抗T1噬菌体感染的特点。Turbo感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于109 cfu/μg DNA。\n\n \n\n基因型:\n\nF'proA+B+lacIqΔlacZM15/fhuA2Δ(lac-proAB)glnVgalK16galE15R(zgb-210::Tn10)TetSendA1thi-1Δ(hsdS-mcrB)5\n\n \n\n菌株抗性：对氨苄青霉素、氯霉素、卡那霉素、壮观霉素、链霉素、四环素敏感\n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

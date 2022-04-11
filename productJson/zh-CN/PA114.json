@@ -1,0 +1,24 @@
+{
+  "type": "PA114",
+  "data": [
+    [
+      "PA114-01",
+      "Prescission Protease(PSP) （PP酶）",
+      "100U",
+      "包",
+      800,
+      "储运温度：长期储存于-80℃，可保存2年；或小量分装后保存于-20℃，可保存6个月，避免反复冻融。10×Cleavage Buffer 置于-20℃ 保存。\n\n \n\n产品介绍：\n\n         Prescission Protease（简称PSP）是一种由人鼻病毒14型的3C蛋白酶和GST组成的融合蛋白。这种蛋白酶特异识别短肽Leu-Glu-Val-Leu-Phe-Gln/Gly-Pro中的Gln和Gly残基而进行切割，底物的识别和切割不仅依赖于融合蛋白的一级结构还依赖于融合蛋白的二级和三级结构。它可以特异性的将pGEX-6P系列等载体表达出的带有酶底物识别多肽序列融合蛋白的GST标签进行分离。本蛋白来源为大肠杆菌重组表达。\n\n \n\n酶活性单位定义：在5℃条件下反应 16小时，能够切割100 µg的GST标签的融合蛋白达90%以上所需的酶量定义为一个活性单位。\n\n \n\nPSP贮存液：\n\n      25mM Tris-HCl，pH 8.0、150mM NaCl、1mM EDTA、5mM DTT、50%Glycerin\n\n     10×Cleavage Buffer：\n\n     500mM Tris-HCl，pH 7.0、1.5M NaCl、10mM EDTA、10mM DTT\n\n \n\n（具体操作详见说明书）",
+      "ProteinQuantification"
+    ],
+    [
+      "PA114-02",
+      "Prescission Protease(PSP)",
+      "100U×5",
+      "包",
+      3500,
+      "产品介绍：\n\n        TBST即Tris-buffered Saline with Tween20，是常用于样品制备及免疫分析实验的一种清洗或封闭缓冲液，其中吐温具有降低非特异性免疫结合或蛋白质间相互作用的功能。\n\n        本品是10倍浓缩的TBST，使用方便快捷、省时省事，无需称量固体粉末以及酸碱调PH值等复杂的配制过程，只需去离子水稀释到1×工作液即可。",
+      "ProteinQuantification"
+    ]
+  ],
+  "parent": "ProteinQuantification"
+}

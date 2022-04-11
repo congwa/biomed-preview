@@ -1,0 +1,1 @@
+export default{type:"SH405",data:[["SH405-01","\u86cb\u767d\u9176K(20mg/ml)","1ml","\u74f6",80,"\u8be6\u8be2\u6280\u672f\u90e8","ReadyToUse"]],parent:"ReadyToUse"};

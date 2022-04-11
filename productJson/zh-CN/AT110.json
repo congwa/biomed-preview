@@ -1,0 +1,15 @@
+{
+  "type": "AT110",
+  "data": [
+    [
+      "AT110-01",
+      "sPfu DNA polymerase(2.5U/μl）",
+      "250U",
+      "包",
+      140,
+      "产品介绍：\n\n        sPfu DNA polymerase为高保真酶，具有5'-3' DNA聚合酶活性和3'-5'外切酶活性，能纠正DNA扩增过程中产生的碱基错配。sPfu保真性比Taq DNA polymerase高64倍，比pfu DNA polymerase高8倍。 \n\n \n\n产品特点：\n\n1.高保真PCR扩增，扩增速度快，10-30s/kb。 \n\n2.平末端PCR产物扩增，RT-PCR。 \n\n \n\n产品储存：-20℃保存，有效期一年。 \n\n \n\n（具体操作详见说明书）",
+      "PCRCommon"
+    ]
+  ],
+  "parent": "PCRCommon"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "CL307",
+  "data": [
+    [
+      "CL307-01",
+      "EasyMut gene multisite mutagenesis kit（多点突变试剂盒）",
+      "20次",
+      "包",
+      1800,
+      "产品储存：请按产品指示温度保存各成分\n\n \n\n产品介绍：\n\n本产品利用无缝克隆技术来实现基因的定点突变，可用于单点突变和多点突变质粒的构建。本产品无需除去甲基化模板质粒，无需PCR扩增出整个质粒，并且引物设计更加简便快速，因此可以更加快速，高效地实现定点突变。\n\n \n\n产品特点：\n\n1. 利用2×Xerox PCR Master Mix扩增片段，缩短扩增时间（2-4 kb/min），提高保真性；\n\n2. 引物设计更加简单，快速；\n\n3. 省略消化甲基化模板质粒的步骤，更加快速，高效；\n\n4. 无需PCR扩增出整个质粒，减少载体的突变。\n\n \n\n实验原理：",
+      "CloningOfRestructuring"
+    ]
+  ],
+  "parent": "CloningOfRestructuring"
+}

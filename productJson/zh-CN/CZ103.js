@@ -1,0 +1,1 @@
+export default{type:"CZ103",data:[["CZ103-01","\u6d4b\u5e8f\u540e\u7eaf\u5316\u8bd5\u5242\u76d2 ( \u78c1\u73e0\u6cd5\uff09","5ml","\u76d2",300,"\u6d4b\u5e8f\u540e\u7eaf\u5316\u8bd5\u5242\u76d2 ( \u78c1\u73e0\u6cd5\uff09"],["CZ103-02",null,"500ml","\u76d2",2e4,"\u6d4b\u5e8f\u540e\u7eaf\u5316\u8bd5\u5242\u76d2 ( \u78c1\u73e0\u6cd5\uff09"]],noManual:!0,parent:"MBP"};

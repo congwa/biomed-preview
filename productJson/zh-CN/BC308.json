@@ -1,0 +1,15 @@
+{
+  "type": "BC308",
+  "data": [
+    [
+      "BC308-01",
+      "GV3101农杆菌电转感受态细胞",
+      "50μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n基因型：C58 (rifR) Ti pMP90 (pTiC58DT-DNA) (StrR/GentR), Nopaline type \n\n\n\n产品介绍：\n\nGV3101菌株为农杆菌C58型背景，核基因中含有利福平抗性基因Rif。此菌株还携带一种自身转运功能丧失的质粒(disarmed Ti plasmid)。GV3101菌株含有pMP90 (pTiC58DT-DNA)，该质粒含有vir基因（vir基因是TDNA插入植物基因组所必需的元件，pMP90 (pTiC58DT-DNA)质粒自身的T-DNA转移功能被破坏，但可辅助植物双元表达载体的T-DNA的转移）。pMP90 (pTiC58DT-DNA)质粒还含有Str和Gent抗性基因，赋予GV3101菌株链霉素和庆大霉素抗性。GV3101农杆菌适用于拟南芥、烟草、玉米、土豆等植物的转基因操作。GV3101 电转感受态特别适用于大质粒的转化，经pCAMBIA2301质粒检测转化效率大于105 cfu/μg DNA。\n\n\n\n（具体操作详见说明书）",
+      "AgrobacteriumTransfer"
+    ]
+  ],
+  "parent": "AgrobacteriumTransfer"
+}

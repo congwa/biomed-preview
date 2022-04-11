@@ -1,0 +1,15 @@
+{
+  "type": "AT106",
+  "data": [
+    [
+      "AT106-01",
+      "Taq Plus DNA Polymerse(5U/ul)  ",
+      "500U",
+      "包",
+      200,
+      "储存条件：-20℃保存\n\n\n\n\n\n制品说明：\n\n\n\n  Taq Plus DNA Polymerase 是Taq DNA Polymerase与Pfu DNA Polymeraser 混合物。在PCR反应中Taq Plus DNA Polymerase延伸速度为1-2 kb/min，产物3′端带A，可直接用于TA克隆,若需提高克隆效率，建议先纯化加A后进行TA克隆。\n\n\n\n\n\n\n\n酶贮存缓冲液：\n\n\n\n    20mM Tris-HCl (pH8.0)， 0.1 mM EDTA， 1mM DTT， 100 mM KCl， Stabilizers， 50% glycerol。\n\n\n\n    5×Taq Plus Buffer (含Mg2+)：\n\n\n\n    100 mM Tris-HCl (pH 8.4)， 100 mM KCl， 50mM(NH4)2 SO4，7.5mM MgCl2，其他成分。\n\n\n\n\n\n\n\n适用范围：一般用于DNA片断的PCR扩增、DNA标记、引物延伸、序列测定、平末端加A等，产物可以直接用于TA克隆。\n\n\n\n\n\n\n\n（具体操作详见说明书）",
+      "PCRCommon"
+    ]
+  ],
+  "parent": "PCRCommon"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "AT107",
+  "data": [
+    [
+      "AT107-01",
+      "Long Taq DNA Polymerse(5U/ul) ",
+      "500U",
+      "包",
+      260,
+      "储存条件：-20℃保存\n\n \n\n制品说明：\n\n    一般PCR法具有一定的局限性，特别是难以扩增5kb以上的长链DNA，这严重限制了PCR法的推广和应用。通过改变PCR过程中的DNA聚合酶、Buffer、扩增条件等，使长链DNA的扩增成为可能，这就是LA（Long and Accurate）PCR技术。\n\n    本试剂盒所用的Long Taq 是Taq聚合酶和有校正功能的聚合酶的混合酶，这种混合酶可以染色体和其它细胞器的DNA为模板进行高效PCR反应。以人的染色体上为模板可以扩增27kb的DNA片段，而以λDNA为模板则可以扩增出高达40kb的片段。\n\n \n\n活性单位：1 单位（U）Long Taq DNA Polymerase 活性定义为在74℃、30分钟内，以活性化的大马哈鱼精子DNA作为模板引物，将10 nmol脱氧核苷酸掺入到酸不溶物质所需的酶量。\n\n \n\n质量控制：SDS-PAGE 检测纯度大于99%，经检测无外源核酸酶活性；PCR方法检测无宿主残余DNA，能有效地扩增人基因组中的单拷贝基因；室温存放一周，无明显活性改变。\n\n \n\n酶贮存缓冲液：     \n\n         20mM Tris-HCl (pH8.0)，0.1 mM EDTA，1mM DTT，100 mM KCl，Stabilizers，50% glycerol。\n\n    5×Long Taq Buffer (2.5mM Mg2+ Plus)：\n\n       100 mM Tris-HCl (pH 8.4)， 100 mM KCl，50 mM(NH4)2 SO4，7.5 mM MgCl2，其他成分。\n\n \n\n适用范围：一般用于DNA片段的PCR扩增、DNA标记、引物延伸、序列测定、PCR产物为部分末端加A，产物可直接用于TA克隆但仍建议加A后进行连接提高效率。\n\n \n\n \n\n（具体操作详见说明书）\n\n ",
+      "PCRCommon"
+    ]
+  ],
+  "parent": "PCRCommon"
+}

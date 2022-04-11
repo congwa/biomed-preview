@@ -1,0 +1,24 @@
+{
+  "type": "MT612",
+  "data": [
+    [
+      "MT612-01",
+      "M-MLV III Green One-Step qRT-PCT Kit ",
+      "20ul ×100rnxs",
+      "包",
+      1250,
+      "产品介绍：\n\n        采用一步qRT-PCR方案。反转录与qPCR反应在同一反应体系中连续进行，反应中不需添加任何试剂。反转录反应使用本公司开发的二种M-MLV Reverse Transcriptase。该反转录酶去除RNase H 活性，合成能力高、热稳定性好和半衰期长的特点；qPCR反应使用了扩增性能优越的DNA聚合酶，采用SYBR Green I 荧光染料，灵敏度更高。 适宜低拷贝基因检测。 \n\n\n产品特点：\n1. 利用M-MLV Reverse Transcriptase高效地将RNA合成cDNA，操作简单。\n2. 采用SYBR Green I 荧光染料，灵敏度更高。\n3. 只能使用特异引物，不能使用Oligo(dT)和Random Primer。 \n\n\n产品储存：-20℃保存 \n\n产品浓度:200U/μl",
+      "RT-PCR"
+    ],
+    [
+      "MT612-02",
+      null,
+      "20ul ×500rnxs",
+      "包",
+      4100,
+      "产品介绍：\n\n        采用一步qRT-PCR方案。反转录与qPCR反应在同一反应体系中连续进行，反应中不需添加任何试剂。反转录反应使用本公司开发的二种M-MLV Reverse Transcriptase。该反转录酶去除RNase H 活性，合成能力高、热稳定性好和半衰期长的特点；qPCR反应使用了扩增性能优越的DNA聚合酶，采用SYBR Green I 荧光染料，灵敏度更高。 适宜低拷贝基因检测。 \n\n\n产品特点：\n1. 利用M-MLV Reverse Transcriptase高效地将RNA合成cDNA，操作简单。\n2. 采用SYBR Green I 荧光染料，灵敏度更高。\n3. 只能使用特异引物，不能使用Oligo(dT)和Random Primer。 \n\n\n产品储存：-20℃保存 \n\n产品浓度:201U/μl",
+      "RT-PCR"
+    ]
+  ],
+  "parent": "RT-PCR"
+}

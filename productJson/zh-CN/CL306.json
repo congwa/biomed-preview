@@ -1,0 +1,15 @@
+{
+  "type": "CL306",
+  "data": [
+    [
+      "CL306-01",
+      "Topoisomerase I (Vaccinia virus)",
+      "100U",
+      "支",
+      299,
+      "Concentration:5U/μl\n\n\n\nStorage:-20℃\n\n\n\nDescription:\n\nTopoisomerase I relaxes supercoiled DNA molecules. The enzyme initiates transient breakages and rejoins of phosphodiester bonds in superhelical turns of closed-circular DNA. Enzyme activity is independent of right-and left-handed superhelices.\n\n\n\nApplications:\n\nEnzyme activity is increased in the presence of 2.5mM Mg2+. Topoisomerase I from vaccinia virus can be used for studying pivotal biological pr ocess such as-replication, transcription, recombination as well as DNA structure and topology which includes chromatin reconstitution in vitro and the degree of supercoiling of DNA. Additionally, the product helps in relaxing the DNA coils and exposes the restriction sites which facilitates in enhancing the restriction endonuclease digestion of resistant DNA. It is also used for assaying mutant plasmids which differ in length by only one base-pair.\n\n \n\nSynonyms:\n\nTopoisomerase I; EC 5.99.1.2; type I DNA topoisomerase; untwisting enzyme;relaxing enzyme; nicking-closing enzyme; swivelase; ω-protein; deoxyribonucleate topoisomerase; topoisomerase; type I DNA topoisomerase; DNA topoisomerase; TOPO I\n\n \n\nStroage buffer:\n\nbuffered aqueous solution; Solution in 50mM Tris HCl, pH 7.5, containing 100mM NaCl, 1mM EDTA, 1mM DTT, 0.1% Triton X-100, and 50% glycerol.\n\n\n\n5×Reaction buffer: 50mM Tris-acetate, pH 7.5, 0.1mM EDTA, 2.5mM MgCl2 and 100mM NaCI.\n\n \n\nEC Number: EC 5.99.1.2\n\n \n\nCAS No.: 80449-01-0\n\n\n\nMolecular Weight: mol wt 32kDa\n\n \n\nUnit Definition: \n\n\nOne unit coverts 1μg of supercoiled closed circular (Form I) pUC19 DNA to relaxed closed circular form (Form II) in 1 hr at 37°C.\n\n\n\n（具体操作详见说明书）",
+      "CloningOfRestructuring"
+    ]
+  ],
+  "parent": "CloningOfRestructuring"
+}

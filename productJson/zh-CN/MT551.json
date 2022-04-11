@@ -1,0 +1,15 @@
+{
+  "type": "MT551",
+  "data": [
+    [
+      "MT551-01",
+      "Sybr Green I 20× for PCR",
+      "1 ml",
+      "包",
+      180,
+      "SUPER Green I与dsDNA 结合荧光信号可增强800～1000倍。在PCR反应体系中，加入过量SUPER Green I荧光染料，它特异性地掺入DNA双链后，荧光信号增强，而不掺入链中的SUPER Green I染料分子荧光不变，从而保证荧光信号的增加与PCR产物的增加完全同步。荧光可以在退火阶段或者延伸阶段测定。\n\n1．使用浓度对荧光PCR结果的影响\n\nSUPER Green I的使用浓度是保证荧光定量PCR实验成功非常关键的因素。如果SUPER Green I的浓度过低会使荧光信号的变化降低，这就意味着低拷贝的样品可能无法检出。而在高浓度时，将会抑制PCR反应，降低PCR反应效率。所以一般在使用SUPER Green I时应根据实际情况优化使用浓度，反应的终浓度为1×到0.2×之间。\n\n2．Mg2＋浓度的影响\n\n提高Mg2＋浓度可以降低SUPER Green I对PCR反应的抑制作用。我们建议在用SUPER Green I进行荧光PCR反应时，Mg2＋浓度比无SUPER Green I 的普通 PCR 反应高出0.5～3mM。\n\n",
+      "RT-PCR"
+    ]
+  ],
+  "parent": "RT-PCR"
+}

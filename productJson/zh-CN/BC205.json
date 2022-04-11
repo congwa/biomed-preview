@@ -1,0 +1,24 @@
+{
+  "type": "BC205",
+  "data": [
+    [
+      "BC205-01",
+      "OrigamiB(DE3) 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n \n\n本公司生产的OrigamiB(DE3)感受态细胞是采用大肠杆菌OrigamiB(DE3)菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达107 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型： F-ompThsdSB(rB- mB-) galdcmlacY1ahpC(DE3)gor522::Tn10trxB(KanR,TetR)\n\n \n\n抗生素耐药性：细胞具有卡那霉素和四环素抗性。\n\n \n\n产品特点：\n\n \n\n1. 适宜Amp抗性质粒。\n\n \n\n2. OrigamiB（DE3）菌株包含突变的硫氧还蛋白还原酶thioredoxin reductase(trxB)和谷胱甘肽还原酶glutathione reductase(gor)基因，表达主要还原途径的两个关键酶。有利于形成正确折叠的含有二硫键的蛋白，增强蛋白的可溶性。\n\n \n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ],
+    [
+      "BC205-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n \n\n本公司生产的OrigamiB(DE3)感受态细胞是采用大肠杆菌OrigamiB(DE3)菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达107 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型： F-ompThsdSB(rB- mB-) galdcmlacY1ahpC(DE3)gor522::Tn10trxB(KanR,TetR)\n\n \n\n抗生素耐药性：细胞具有卡那霉素和四环素抗性。\n\n \n\n产品特点：\n\n \n\n1. 适宜Amp抗性质粒。\n\n \n\n2. OrigamiB（DE3）菌株包含突变的硫氧还蛋白还原酶thioredoxin reductase(trxB)和谷胱甘肽还原酶glutathione reductase(gor)基因，表达主要还原途径的两个关键酶。有利于形成正确折叠的含有二硫键的蛋白，增强蛋白的可溶性。\n\n \n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

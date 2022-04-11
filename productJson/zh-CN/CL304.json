@@ -1,0 +1,15 @@
+{
+  "type": "CL304",
+  "data": [
+    [
+      "CL304-01",
+      "Dpn I",
+      "250U*2",
+      "包",
+      550,
+      "储运温度：-20℃保存。\n\n\n\n来    源：dpnI质粒的重组大肠杆菌\n\n\n\n单位定义：在37°C条件下，50μl反应体系中，一小时内消化 1µg的甲基化的 pBR322 DNA 。\n\n\n\n失活条件：80℃热处理 20 分钟，可使酶失活。\n\n\n\n\n甲基化影响：能够切断腺嘌呤甲基化的 GmATC 序列；不能切断非甲基化的 GATC序列。 能够切断来源于大肠杆菌E.coli （dam+）的 DNA；PCR 产物不受dam甲基化的影响。\n\n\n\n酶存储缓冲液：\n\n 10 mM Tris-HCl，300mM NaCl，1mM DTT，0.1mM EDTA，500μg/ml BSA，50% Glycerol，pH 7.4\n\n 10×DpnⅠ缓冲液：330mM TrisHAc，10mM Mg(Ac)2，660mM KAC，5mM DTT，pH7.9\n\n\n（具体操作详见说明书）",
+      "CloningOfRestructuring"
+    ]
+  ],
+  "parent": "CloningOfRestructuring"
+}

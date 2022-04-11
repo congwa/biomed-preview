@@ -1,0 +1,15 @@
+{
+  "type": "BC109",
+  "data": [
+    [
+      "BC109-01",
+      "XL10-Gold 感受态细胞",
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品介绍：\n\n\n\n本公司生产的XL10-Gold感受态细胞是采用大肠杆菌XL10菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n\n\n基因型：\n\n\n\nTetrΔ(mcrA)183Δ(mcrCB-hsdSMR-mrr)173endA1supE44thi-1recA1gyrA96relA1lacHte[F′proABlacIqZΔM15Tn10(Tetr) AmyCamr].\n\n\n\n产品特点：适用于高效的DNA克隆和质粒扩增。能保证高拷贝质粒的稳定复制。适合非甲基化DNA的转化。\n\n\n\n抗生素耐药性：细胞具有四环素和氯霉素抗性。\n\n\n\n\n\n\n\n\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

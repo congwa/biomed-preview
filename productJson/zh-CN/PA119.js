@@ -1,0 +1,1 @@
+export default{type:"PA119",data:[["PA119-01","10\xd7Transfer Buffer","500ml","\u74f6",100,"\u4ea7\u54c1\u4ecb\u7ecd\uff1aTransfer Buffer\u53ef\u4ee5\u7528\u4e8eWestern\u65f6\u6e7f\u6cd5\u7535\u8f6c\u819c\uff0c\u5b89\u5168\u65e0\u6bd2\uff0c\u914d\u5236\u65b9\u4fbf\u3002 \n\n \n\n\u50a8\u5b58\u6761\u4ef6\uff1a\u5ba4\u6e29\u4fdd\u5b58","Western"]],parent:"Western"};

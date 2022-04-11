@@ -1,0 +1,15 @@
+{
+  "type": "CL130",
+  "data": [
+    [
+      "CL130-01",
+      "pET-22b(+) Seamless Cloning Kit（线性化质粒）",
+      "20 μl",
+      "包",
+      1000,
+      "保存条件：-20℃保存一年\n\n \n\n产品介绍： \n\npET-22b(+)载体为高水平的原核表达载体，在N端含有PelB信号肽序列，能够将表达的目的蛋白定位在细胞外周质腔，同时在C端具有His标签。本产品提供pET-22b(+)经EcoRⅠ酶切后的线性化载体，可用无缝克隆技术将单个或多个DNA片段组装到载体上。\n\n无缝克隆技术可在重组酶的作用下，只需一步反应，便可将片段克隆到任何载体中的任意位置，得到重组质粒。无缝克隆技术作为一种非常强大的克隆技术，具有快速、 简便、高效、多片段组装和定向克隆等特点，用于单个 DNA 片段的克隆，多个 DNA 片段组装克隆以及多位点突变构建等实验目的。\n\n \n\n产品特点：\n\n1. pET-22b(+)载体为原核表达载体，具有N-PelB signal seqence和C-His标签。\n\n2. pET-22b(+)经EcoRⅠ酶切后的线性化载体，省时省力。\n\n3. 无缝克隆技术只需要简单的 PCR 扩增就可以制备片段DNA。\n\n4. 可以克隆长片段和多片段DNA。\n\n5. 简单、快速、精确、定向克隆。\n\n \n\n操作步骤： \n\n1. pET-22b(+)线性化载体使用方法：  \n\n(1) pET-22b(+)线性化载体当做克隆载体使用，可以在扩增PCR产物的\n\n上游引物 5’端添加序列：CGCTGCCCAGCCGGCGATGGCCATG\n\n下游引物 5’端添加序列：CTCAGTGGTGGTGGTGGTGGTGCTCGAG\n\n通过无缝克隆连接到pET-22b(+)中。\n\n(2) 测序引物\n\nT7: 5'-TAATACGACTCACTATAGGG-3' \n\nT7t: 5'-GCTAGTTATTGCTCAGCGG-3' \n\n(3) pET-22b(+)线性化载体为 EcoRⅠ酶切后的线性化载体，图谱及多克隆位点见下图。",
+      "CloningRelated"
+    ]
+  ],
+  "parent": "CloningRelated"
+}

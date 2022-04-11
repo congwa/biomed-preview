@@ -1,0 +1,24 @@
+{
+  "type": "BC116",
+  "data": [
+    [
+      "BC116-01",
+      "DH5α- 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融。\n\n产品介绍：\n\nDH5α-菌株是实验室最常用的感受态细胞。缺失核酸内切酶 (endA1)，提高了质粒DNA的产量和质量；重组酶缺陷型(recA1)减少插入片段的同源重组概率，保证了插入DNA 的稳定性；由于lacZΔM15的存在以及lac lq基因的缺失，故不需要加IPTG，只需要添加X-gal就可进行基于α互补原理上的蓝白斑筛选实验。感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于108 cfu/μg。\n\n基因型：\n\nF-φ80dlacZ ΔM15,Δ(lacZYA -argF )U169 deoR, recA1endA1hsdR17 (rK-, mK+) phoAsupE44 λ-thi -1gyrA96 relA1\n\n产品特点：\n\n缺失核酸内切酶(endA1)，提高了质粒DNA的产量和质量；重组酶缺陷型(recA1)减少插入片段的同源重组概率，保证了插入DNA的稳定性；由于lacZΔM15的存在以及lac Iq基因的缺失，故不需要加IPTG，只需要添加X-gal就可进行基于α互补原理上的蓝白斑筛选实验。",
+      "EscherichiaColi"
+    ],
+    [
+      "BC116-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n产品介绍：\n\nDH5α-菌株是实验室最常用的感受态细胞。缺失核酸内切酶 (endA1)，提高了质粒DNA的产量和质量；重组酶缺陷型(recA1)减少插入片段的同源重组概率，保证了插入DNA 的稳定性；由于lacZΔM15的存在以及lac lq基因的缺失，故不需要加IPTG，只需要添加X-gal就可进行基于α互补原理上的蓝白斑筛选实验。感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于108 cfu/μg。\n\n基因型：\n\nF-φ80dlacZ ΔM15,Δ(lacZYA -argF )U169 deoR, recA1endA1hsdR17 (rK-, mK+) phoAsupE44 λ-thi -1gyrA96 relA1\n\n产品特点：\n\n缺失核酸内切酶(endA1)，提高了质粒DNA的产量和质量；重组酶缺陷型(recA1)减少插入片段的同源重组概率，保证了插入DNA的稳定性；由于lacZΔM15的存在以及lac Iq基因的缺失，故不需要加IPTG，只需要添加X-gal就可进行基于α互补原理上的蓝白斑筛选实验。",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

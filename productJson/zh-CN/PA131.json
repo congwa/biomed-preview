@@ -1,0 +1,24 @@
+{
+  "type": "PA131",
+  "data": [
+    [
+      "PA131-01",
+      "烟草蚀纹病毒蛋白酶 TEV Protease ",
+      "1000U",
+      "包",
+      998,
+      "储存温度：\n\nTEV Protease(10 U/μl)长期储存于-80℃，可保存2年；或小量分装后保存于-20℃，可保存6个月，避免反复冻融。10×TEV Buffer置于-20℃保存即可。\n\n产品介绍：\n\nTEV Protease (烟草蚀纹病毒蛋白酶；Tobacco etch virus protease) 是来源于烟草蚀纹病毒(TEV) Nla的重组蛋白酶，此蛋白酶被用来切除纯化后融合蛋白的亲和标签。TEV Protease具有很强的位点特异性，能够识别EXXYXQ(G/S)的七氨基酸序列(Glu-Asn-Leu- Tyr-Phe- Gln-Gly)，最普通的是ENLYFQG，其切割位点在谷氨酰胺和甘氨酸或丝氨酸之间。该酶在PH 5.5-8.5和4-30℃的广泛范围内皆有活性，使得反应条件的选择可根据目的蛋白的情况而修改。TEV Protease自大肠杆菌表达经亲和纯化的重组蛋白酶。TEV Protease带有多聚组氨酸标签，酶切反应完毕后可通过亲和层析去除。\n\n酶活性单位定义：\n\n在1×TEV Buffer (50 mM Tris-HCl, pH8.0, 0.5 mM EDTA, 1 mM DTT) 中，30℃条件下反应1 h，能够切割3 µg的反应底物达85%以上所需的酶量定义为一个活性单位。\n\n应用：融合蛋白标签剪切去除。",
+      "ProteinQuantification"
+    ],
+    [
+      "PA131-02",
+      null,
+      "1000U×5",
+      "包",
+      4490,
+      "储存温度：\n\nTEV Protease(10 U/μl)长期储存于-80℃，可保存2年；或小量分装后保存于-20℃，可保存6个月，避免反复冻融。10×TEV Buffer置于-20℃保存即可。\n\n产品介绍：\n\nTEV Protease (烟草蚀纹病毒蛋白酶；Tobacco etch virus protease) 是来源于烟草蚀纹病毒(TEV) Nla的重组蛋白酶，此蛋白酶被用来切除纯化后融合蛋白的亲和标签。TEV Protease具有很强的位点特异性，能够识别EXXYXQ(G/S)的七氨基酸序列(Glu-Asn-Leu- Tyr-Phe- Gln-Gly)，最普通的是ENLYFQG，其切割位点在谷氨酰胺和甘氨酸或丝氨酸之间。该酶在PH 5.5-8.5和4-30℃的广泛范围内皆有活性，使得反应条件的选择可根据目的蛋白的情况而修改。TEV Protease自大肠杆菌表达经亲和纯化的重组蛋白酶。TEV Protease带有多聚组氨酸标签，酶切反应完毕后可通过亲和层析去除。\n\n酶活性单位定义：\n\n在1×TEV Buffer (50 mM Tris-HCl, pH8.0, 0.5 mM EDTA, 1 mM DTT) 中，30℃条件下反应1 h，能够切割3 µg的反应底物达85%以上所需的酶量定义为一个活性单位。\n\n应用：融合蛋白标签剪切去除。",
+      "ProteinQuantification"
+    ]
+  ],
+  "parent": "ProteinQuantification"
+}

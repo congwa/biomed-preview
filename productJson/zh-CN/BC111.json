@@ -1,0 +1,15 @@
+{
+  "type": "BC111",
+  "data": [
+    [
+      "BC111-01",
+      "DB3.1 感受态细胞",
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n \n\n本公司生产的大肠杆菌DB3.1细胞含有gyrA462基因，对λ噬菌体的ccdB基因产物的毒性具有抵抗作用，特别适用于转化和扩增包含ccdB基因的质粒载体。使用pUC19质粒检测，转化效率可达107 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型：\n\n \n\nF-gyrA462endA1Δ(sr1-recA)mcrBmrrhsdS20(rB-,mB-)supE44ara-14galK2lacY1proA2rpsL20(SmR)xyl-5λ-leumtl1\n\n \n\n抗生素耐药性：细胞具有链霉素抗性。\n\n \n\n \n\n \n\n \n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

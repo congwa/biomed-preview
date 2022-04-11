@@ -1,0 +1,15 @@
+{
+  "type": "PA121",
+  "data": [
+    [
+      "PA121-01",
+      "30% Acr-Bis（29:1）",
+      "500ml",
+      "瓶",
+      500,
+      "产品介绍：\n    30% Acr-Bis（29∶1）即为含30%  acrylamide-bisacrylamide的水溶液，其中acrylamide和bisacrylamide的比例为29∶1。30%  Acr-Bis（29∶1）常用于配制各种浓度的变性及非变性聚丙烯酰胺凝胶（PAGE胶），进行常规的蛋白或核酸电泳实验，使用方便。 \n\n \n\n储存条件：4℃避光保存 \n\n \n\n注意事项：30% Acr-Bis（29∶1）有一定得毒性，使用时请注意适当防护，为了您的安全和健康，请穿实验服并戴一次性手套操作。"
+    ]
+  ],
+  "noManual": true,
+  "parent": "ProteinElectrophoresis"
+}

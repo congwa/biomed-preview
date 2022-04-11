@@ -1,0 +1,15 @@
+{
+  "type": "CL121",
+  "data": [
+    [
+      "CL121-01",
+      "pGEM-3ZEVL Seamless Cloning Kit（线性化质粒）",
+      "20 μl",
+      "包",
+      1000,
+      "产品介绍：\n\npGEM-3ZEVL为克隆载体，载体骨架小，连接效率高，具有氨苄青霉素抗性。本产品提供经EcoRⅤ酶切后的线性化载体，可用无缝克隆技术将单个或多个DNA片段组装到载体上。\n\n无缝克隆技术可在重组酶的作用下，只需一步反应，便可将片段克隆到任何载体中的任意位置，得到重组质粒。无缝克隆技术作为一种非常强大的克隆技术，具有快速、简便、高效、多片段组装和定向克隆等特点，用于单个DNA片段的克隆，多个DNA片段组装克隆以及多位点突变构建等实验目的。\n\n \n\n产品特点：\n\n1. pGEM-3ZEVL为克隆载体，载体骨架小，连接效率高。\n\n2. pGEM-3ZEVL载体具有氨苄青霉素抗性。。\n\n3. 无缝克隆技术只需要简单的 PCR 扩增就可以制备片段DNA。\n\n4. 可以克隆长片段和多片段DNA。\n\n \n\n操作步骤：\n\n1. pGEM-3ZEVL线性化载体使用方法：  \n\n(1) pGEM3ZEVL 当做克隆载体使用，可以在扩增PCR产物的\n\n上游引物 5’端添加序列：TCGGTACCCGGGGATCCGAT，\n\n下游引物 5’端添加序列：TGCAGGTCGACTCTAGAGAT，\n\n就可以通过无缝克隆连接到 pGEM3ZEVL 中。\n\n(2) 测序引物：\n\nM13F：GTAAAACGACGGCCAGT\n\nM13R：CAGGAAACAGCTATGAC\n\n(3) pGEM-3ZEVL线性化载体图谱及多克隆位点见下图。",
+      "CloningRelated"
+    ]
+  ],
+  "parent": "CloningRelated"
+}

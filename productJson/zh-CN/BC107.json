@@ -1,0 +1,24 @@
+{
+  "type": "BC107",
+  "data": [
+    [
+      "BC107-01",
+      "OmniMAX2-T1 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品介绍：\n\n\n\n本公司生产的OmniMAX2-T1感受态细胞是采用大肠杆菌OmniMAX2-T1菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n\n\n基因型：\n\n\n\nF′{proAB+lacIqlacZΔM15Tn10(TetR)Δ(ccdAB)}mcrAΔ(mrr-hsdRMS-mcrBC)φ80(lacZ)ΔM15Δ(lacZYA-argF)U169endA1recA1supE44thi-1gyrA96relA1tonApanD\n\n\n\n抗生素耐药性：细胞具有四环素抗性。\n\n\n\n产品特点：\n\n\n\n1. 消除了mcrA，mrr，mcrBC和hsdRMS限制系统, 高效克隆甲基化DNA，可用于文库构建；\n\n\n\n2. 具有T1、T5噬菌体抗性，保护样品免受噬菌体的污染；优化的基因型，避免DNA重排；\n\n\n\n3. 可用于蓝、白斑筛选；\n\n\n\n4. 制备单链DNA。\n\n\n\n\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ],
+    [
+      "BC107-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品介绍：\n\n\n\n本公司生产的OmniMAX2-T1感受态细胞是采用大肠杆菌OmniMAX2-T1菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n\n\n基因型：\n\n\n\nF′{proAB+lacIqlacZΔM15Tn10(TetR)Δ(ccdAB)}mcrAΔ(mrr-hsdRMS-mcrBC)φ80(lacZ)ΔM15Δ(lacZYA-argF)U169endA1recA1supE44thi-1gyrA96relA1tonApanD\n\n\n\n抗生素耐药性：细胞具有四环素抗性。\n\n\n\n产品特点：\n\n\n\n1. 消除了mcrA，mrr，mcrBC和hsdRMS限制系统, 高效克隆甲基化DNA，可用于文库构建；\n\n\n\n2. 具有T1、T5噬菌体抗性，保护样品免受噬菌体的污染；优化的基因型，避免DNA重排；\n\n\n\n3. 可用于蓝、白斑筛选；\n\n\n\n4. 制备单链DNA。\n\n\n\n\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

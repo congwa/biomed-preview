@@ -1,0 +1,15 @@
+{
+  "type": "BC110",
+  "data": [
+    [
+      "BC110-01",
+      "JM110 感受态细胞",
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n \n\n本公司生产的JM110感受态细胞是采用大肠杆菌JM110菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达106 cfu/µg。pEGFP-N1转化JM110后XbaⅠ位点去甲基化，提取的质粒可被XbaⅠ酶切开，线性化质粒大小为4733bp。JM110感受态细胞-70℃保存6个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型：rpsL (Strr)thrleuthi-1lacYgalKgalTaratonAtsxdamdcmsupE44Δ(lac-proAB)/F´[traD36proABlacIqZΔM15]\n\n \n\n产品特点：dam-，dcm- 的菌株，排除dam，dcm甲基化的影响。\n\n \n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

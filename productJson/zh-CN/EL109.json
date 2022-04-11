@@ -1,0 +1,24 @@
+{
+  "type": "EL109",
+  "data": [
+    [
+      "EL109-01",
+      "6xTriDye DNA/RNA loading buffer",
+      "1ml×5支",
+      "支",
+      60,
+      "产品储存:室温或4℃保存。\n\n \n\n产品介绍:\n        本试剂用于普通琼脂糖凝胶电泳快速检查RNA/DNA完整性。6×TriDye DNA/RNA loading buffer为6倍浓缩的溶液，使用时稀释成1×。\n\n\n产品特点:\n     1. TriDye上样缓冲液中含有三种示踪染料---亮青、亮蓝和亮黄色染料，方便观察样品的电泳状况，防止DNA条带跑出凝胶。 \n     2. 三种染料不干扰蓝光灯或紫外灯下观察DNA条带。\n     3. 无RNA酶活性。\n\n\n\n 使用方法：\n\n按照每5μl RNA/DNA样品，加入1μl 6×TriDye DNA/RNA loading buffer的比例，混合后直接上样电泳。",
+      "Electrophoresis"
+    ],
+    [
+      "EL109-02",
+      null,
+      "1ml×50支",
+      "包",
+      400,
+      "产品储存:室温或4℃保存。\n\n \n\n产品介绍:\n        本试剂用于普通琼脂糖凝胶电泳快速检查RNA/DNA完整性。6×TriDye DNA/RNA loading buffer为6倍浓缩的溶液，使用时稀释成1×。\n\n\n产品特点:\n     1. TriDye上样缓冲液中含有三种示踪染料---亮青、亮蓝和亮黄色染料，方便观察样品的电泳状况，防止DNA条带跑出凝胶。 \n     2. 三种染料不干扰蓝光灯或紫外灯下观察DNA条带。\n     3. 无RNA酶活性。\n\n\n\n 使用方法：\n\n按照每5μl RNA/DNA样品，加入1μl 6×TriDye DNA/RNA loading buffer的比例，混合后直接上样电泳。",
+      "Electrophoresis"
+    ]
+  ],
+  "parent": "Electrophoresis"
+}

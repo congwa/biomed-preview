@@ -1,0 +1,24 @@
+{
+  "type": "BC106",
+  "data": [
+    [
+      "BC106-01",
+      "DH10B 感受态细胞",
+      "100ul×10",
+      "包",
+      240,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n本公司生产的DH10B感受态细胞是采用大肠杆菌DH10B菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型：F-mcrA∆(mrr-hsdRMS-mcrBC)φ80lacZ∆M15∆lacX74recA1endA1araD139∆(ara,leu)7697galE15galKλ-rpsLnupG \n\n \n\n产品特点：\n\n1. 可高效转化大小为150Kb质粒，用于产生cDNA或基因组文库。\n\n2. 用于蓝、白斑筛选。\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ],
+    [
+      "BC106-02",
+      null,
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n \n\n产品介绍：\n\n本公司生产的DH10B感受态细胞是采用大肠杆菌DH10B菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/µg，-70℃保存几个月转化效率不发生改变。每支感受态可以酌情分装使用，降低了实验的成本。质量稳定，使用方便，质优价廉。\n\n \n\n基因型：F-mcrA∆(mrr-hsdRMS-mcrBC)φ80lacZ∆M15∆lacX74recA1endA1araD139∆(ara,leu)7697galE15galKλ-rpsLnupG \n\n \n\n产品特点：\n\n1. 可高效转化大小为150Kb质粒，用于产生cDNA或基因组文库。\n\n2. 用于蓝、白斑筛选。\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

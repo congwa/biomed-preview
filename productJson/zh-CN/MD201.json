@@ -1,0 +1,24 @@
+{
+  "type": "MD201",
+  "data": [
+    [
+      "MD201-01",
+      "λDNA/Hind Ⅲ Marker      分子量标准                            (125,564,2027,2322,4361,6557,9416,23130bp)",
+      "50次(250ul×1支)",
+      "包",
+      90,
+      "浓度：500ng/5μl\n\n \n\n储运温度：4℃(长期保存请置于-20℃)\n\n \n\n制品说明：\n\n        λDNA /HindⅢ Marker为已含有1×loading buffer的DNA溶液，可取5μl直接电泳，使用方便，电泳图像清晰。\n\n        λDNA /HindⅢ Marker由DNA片段23130bp 、9416bp、6557bp、4361bp、2322bp、2027bp、564bp以及125bp构成，无非特异带型，无DNA降解酶。\n\n \n\n使用注意：\n\n1. 电泳时的加样孔宽度小于6mm时,每次取5μl 制品电泳便可得到清晰条带。如果加样孔增宽,须适当增加Marker制品的加样量。\n\n2. 对DNA电泳而言，Agarose的纯度对DNA条带的清晰度影响很大。因此，电泳时应尽量选用质量好的Agarose。\n\n3.Agarose电泳时，Agarose的浓度与DNA片段的分离性能关系密切。Agarose浓度越大，对短片段DNA分离性能越好；反之，Agarose浓度越小，越有利于长片段DNA的分离。\n\n4.电泳时的电压不宜过高，尽量控制在5V/cm左右；电泳缓冲液尽量是新鲜配制，特别是在做标准图片时。",
+      "DNAMolecularWeightStandard"
+    ],
+    [
+      "MD201-02",
+      null,
+      "200次(250ul×4支)",
+      "包",
+      350,
+      "浓度：500ng/5μl\n\n \n\n储运温度：4℃(长期保存请置于-20℃)\n\n \n\n制品说明：\n\n        λDNA /HindⅢ Marker为已含有1×loading buffer的DNA溶液，可取5μl直接电泳，使用方便，电泳图像清晰。\n\n        λDNA /HindⅢ Marker由DNA片段23130bp 、9416bp、6557bp、4361bp、2322bp、2027bp、564bp以及125bp构成，无非特异带型，无DNA降解酶。\n\n \n\n使用注意：\n\n1. 电泳时的加样孔宽度小于6mm时,每次取5μl 制品电泳便可得到清晰条带。如果加样孔增宽,须适当增加Marker制品的加样量。\n\n2. 对DNA电泳而言，Agarose的纯度对DNA条带的清晰度影响很大。因此，电泳时应尽量选用质量好的Agarose。\n\n3.Agarose电泳时，Agarose的浓度与DNA片段的分离性能关系密切。Agarose浓度越大，对短片段DNA分离性能越好；反之，Agarose浓度越小，越有利于长片段DNA的分离。\n\n4.电泳时的电压不宜过高，尽量控制在5V/cm左右；电泳缓冲液尽量是新鲜配制，特别是在做标准图片时。",
+      "DNAMolecularWeightStandard"
+    ]
+  ],
+  "parent": "DNAMolecularWeightStandard"
+}

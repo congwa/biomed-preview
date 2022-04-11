@@ -1,0 +1,15 @@
+{
+  "type": "BC113",
+  "data": [
+    [
+      "BC113-01",
+      "NEB 10-beta 感受态细胞",
+      "100ul×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n产品介绍：\n\n\n\n本公司生产的NEB 10-beta感受态细胞是采用大肠杆菌NEB 10-beta菌株经特殊工艺处理得到的感受态细胞，可用于DNA的化学转化。使用pUC19质粒检测，转化效率可达108 cfu/μg，-70℃保存6个月转化效率不发生改变。\n\n\n\n基因型：\n\n\n\naraD139∆(ara-leu)7697fhuAlacX74galK(f80∆(lacZ)M15)mcrAgalUrecA1endA1nupGrpsL(StrR)∆(mrr-hsdRMS-mcrBC)\n\n\n\n产品特点 ：\n\n\n\n1. 大肠杆菌K12菌株背景，DH10B菌株的衍生菌株，核基因中具有链霉素抗性基因(StrR)。\n\n\n\n2. 可转化大质粒和BACs。\n\n\n\n3. DNA重组缺陷(recA1)和内切酶I缺陷(endA1)的特点有利于DNA克隆的稳定和高纯度质粒DNA的提取。\n\n\n\n4. 对T1噬菌体有抵抗能力（fhuA2）。\n\n\n\n5. 无需添加IPTG，只加X-gal即可检测β半乳糖苷酶活性，用于蓝白斑筛选。\n\n\n\n\n\n\n\n（具体操作详见说明书）\n\n",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

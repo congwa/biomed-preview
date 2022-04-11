@@ -1,0 +1,23 @@
+{
+  "type": "PA117",
+  "data": [
+    [
+      "PA117-01",
+      "2× 蛋白上样缓冲液",
+      "5ml",
+      "包",
+      100,
+      "产品介绍：用于SDS-PAGE电泳时的蛋白样品制备和上样。用时与蛋白样品1:1混合，95℃，5min变性蛋白后直接上样。 \n\n产品特点：用于SDS-PAGE电泳时的蛋白样品制备和上样。 \n\n \n\n储存条件：4℃或-20℃，密封保存。大包装宜分装冻。 \n\n主要成分：120mM Tris-HCl（pH6.8）、20% Glycerol、4% SDS、3% β-mercaptoethanol、0.02% bromophenol blue。"
+    ],
+    [
+      "PA117-02",
+      null,
+      "25ml",
+      "包",
+      440,
+      "产品介绍：用于SDS-PAGE电泳时的蛋白样品制备和上样。用时与蛋白样品1:1混合，95℃，5min变性蛋白后直接上样。 \n\n产品特点：用于SDS-PAGE电泳时的蛋白样品制备和上样。 \n\n \n\n储存条件：4℃或-20℃，密封保存。大包装宜分装冻。 \n\n主要成分：120mM Tris-HCl（pH6.8）、20% Glycerol、4% SDS、3% β-mercaptoethanol、0.02% bromophenol blue。"
+    ]
+  ],
+  "noManual": true,
+  "parent": "ProteinElectrophoresis"
+}

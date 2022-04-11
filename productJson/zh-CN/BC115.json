@@ -1,0 +1,15 @@
+{
+  "type": "BC115",
+  "data": [
+    [
+      "BC115-01",
+      "Stbl4 感受态细胞",
+      "100μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n产品说明：\n\nStbl4菌株来源于Stbl2菌株（Stbl2为JM109衍生菌株），用于克隆不稳定序列（如重复序列，逆转录病毒序列等）和甲基化的DNA序列，特别适合构建重组逆转录病毒或慢病毒质粒。可用于大质粒的构建和扩增，适用于构建和扩增质粒cDNA文库。区别于Stbl2菌株，Stbl4菌株在IPTG和X-gal存在的条件下，可进行α互补原理的蓝白斑筛选实验。感受态细胞经特殊工艺制作，pUC19质粒检测转化效率大于108 cfu/μg。\n\n基因型： \n\nmcrA Δ(mcrBC-hsdRMS-mrr)recA1endA1gyrA96gal-thi-1supE44 λ- relA1 Δ(lac-proAB)/F′ proAB+ lacIqZΔM15 Tn10 (TetR)\n\n菌株抗性：对氨苄青霉素，卡那霉素，壮观霉素敏感，对四环素有抗性。\n\n（具体操作详见说明书）",
+      "EscherichiaColi"
+    ]
+  ],
+  "parent": "EscherichiaColi"
+}

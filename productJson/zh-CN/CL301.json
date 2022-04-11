@@ -1,0 +1,24 @@
+{
+  "type": "CL301",
+  "data": [
+    [
+      "CL301-01",
+      "T4 DNA Ligase（T4连接酶）",
+      "500U",
+      "包",
+      320,
+      "浓    度： 5U/μl\n\n \n\n产品概述：\n\n 在有Mg2+和ATP存在的条件下，T4 DNA Ligase能催化双链 DNA或RNA上相邻的5´-磷酸末端和3´-羟基末端形成磷酸二酯键。该酶不仅能够催化双链DNA的平末端或粘性末端之间的连接，还可以修复双链 DNA、RNA 或 DNA/RNA 杂交双链中的单链切刻，但不能催化单链 DNA 之间的连接。\n\n \n\n保存条件：-20℃保存，有效期一年。\n\n \n\n酶储存缓冲液：\n\n 10 mM Tris-HCl (pH 7.5) ，50mM KCl，1mM DTT， 0.1mM EDTA，50% (v/v) glycerol。\n\n       5 × T4 DNA Ligase Buffer\n\n 250 mMTris-HCl (pH 7.5)， 50mM MgCl2，50mM DTT， 5mM ATP，连接促进剂。\n\n \n\n来     源：纯化于携带T4 DNA ligase 基因 的E. coli 菌株。\n\n \n\n抑制剂和热失活：\n\n    大于200mM的NaCl或KCl可以强烈抑制连接酶活性。65℃加热 10分钟或70℃加热5分钟即可失活。\n\n \n\n单位定义：\n\n 在37℃，20分钟内交换1 nmole 的32PPi所需要的酶量定义为一个Weiss单位。本产品酶1U(Weiss Unit)相当于200个粘性末端单位。在T4 DNA 连接酶反应缓冲液中，16℃条件下，30分钟能够使50%的经Hind III消化的λDNA 片段连接所需要的酶量为一个粘性末端单位。\n\n \n\n质量控制：\n\n 蓝白斑分析实验表明白斑数小于2%;过量T4 DNA Ligase 混合超螺旋质粒检测实验表明无核酸酶检出；SDS-PAGE检测重组蛋白纯度大于99%。\n\n \n\n（具体操作详见说明书）",
+      "CloningOfRestructuring"
+    ],
+    [
+      "CL301-02",
+      "T4 DNA Ligase",
+      "500U×10",
+      "包",
+      3000,
+      "浓    度： 5U/μl\n\n \n\n产品概述：\n\n 在有Mg2+和ATP存在的条件下，T4 DNA Ligase能催化双链 DNA或RNA上相邻的5´-磷酸末端和3´-羟基末端形成磷酸二酯键。该酶不仅能够催化双链DNA的平末端或粘性末端之间的连接，还可以修复双链 DNA、RNA 或 DNA/RNA 杂交双链中的单链切刻，但不能催化单链 DNA 之间的连接。\n\n \n\n保存条件：-20℃保存，有效期一年。\n\n \n\n酶储存缓冲液：\n\n 10 mM Tris-HCl (pH 7.5) ，50mM KCl，1mM DTT， 0.1mM EDTA，50% (v/v) glycerol。\n\n       5 × T4 DNA Ligase Buffer\n\n 250 mMTris-HCl (pH 7.5)， 50mM MgCl2，50mM DTT， 5mM ATP，连接促进剂。\n\n \n\n来     源：纯化于携带T4 DNA ligase 基因 的E. coli 菌株。\n\n \n\n抑制剂和热失活：\n\n    大于200mM的NaCl或KCl可以强烈抑制连接酶活性。65℃加热 10分钟或70℃加热5分钟即可失活。\n\n \n\n单位定义：\n\n 在37℃，20分钟内交换1 nmole 的32PPi所需要的酶量定义为一个Weiss单位。本产品酶1U(Weiss Unit)相当于200个粘性末端单位。在T4 DNA 连接酶反应缓冲液中，16℃条件下，30分钟能够使50%的经Hind III消化的λDNA 片段连接所需要的酶量为一个粘性末端单位。\n\n \n\n质量控制：\n\n 蓝白斑分析实验表明白斑数小于2%;过量T4 DNA Ligase 混合超螺旋质粒检测实验表明无核酸酶检出；SDS-PAGE检测重组蛋白纯度大于99%。\n\n \n\n（具体操作详见说明书）",
+      "CloningOfRestructuring"
+    ]
+  ],
+  "parent": "CloningOfRestructuring"
+}

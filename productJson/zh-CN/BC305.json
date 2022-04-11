@@ -1,0 +1,15 @@
+{
+  "type": "BC305",
+  "data": [
+    [
+      "BC305-01",
+      "LBA4404农杆菌电转感受态细胞",
+      "50μl×20",
+      "包",
+      420,
+      "储存条件：-70℃保存，避免反复冻融。\n\n\n\n基因型：Ach5 (Rif R) Ti pAL4404 (StrR), Octopine type\n\n\n\n产品说明：\n\nLBA4404菌株为农杆菌Ach5型背景(Hoekema et al., 1983)，核基因中含有利福平抗性基因(Rif)。此菌株还携带一种自身转运功能丧失的质粒(disarmed Ti plasmid)，LBA4404菌株含有章鱼碱型Ti质粒pAL4404，该质粒含有vir基因（vir基因是TDNA插入植物基因组所必需的元件，pAL4404质粒自身的T-DNA转移功能被破坏，但可辅助植物双元表达载体的T-DNA的转移）。pAL4404质粒含有链霉素抗性(Str)，赋予LBA4404菌株链霉素抗性。LBA4404农杆菌适用于番茄、烟草等植物的转基因操作。LBA4404电转感受态特别适用大质粒的转化，经pCAMBIA2301质粒检测转化效率大于105 cfu/μg DNA。\n\n\n\n（具体操作详见说明书）",
+      "AgrobacteriumTransfer"
+    ]
+  ],
+  "parent": "AgrobacteriumTransfer"
+}
